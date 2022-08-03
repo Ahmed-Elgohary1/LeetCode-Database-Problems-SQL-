@@ -1,1 +1,3 @@
 1) [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)
+
+2) [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)
