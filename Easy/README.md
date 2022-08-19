@@ -14,3 +14,4 @@
 14) [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/)
 15) [Article Views I](https://leetcode.com/problems/article-views-i/)
 16) [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)
+17) [Rising Temperature](https://leetcode.com/problems/rising-temperature/)
