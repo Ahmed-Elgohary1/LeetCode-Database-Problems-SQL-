@@ -1,7 +1,5 @@
 1) [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)
-
 2) [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)
-
 3) [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)
 4) [Big Countries](https://leetcode.com/problems/big-countries/)
 5) [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)
@@ -15,3 +13,4 @@
 13) [Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/)
 14) [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/)
 15) [Article Views I](https://leetcode.com/problems/article-views-i/)
+16) [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)
