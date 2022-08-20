@@ -1,0 +1,8 @@
+# Write your MySQL query statement below
+
+select distinct s.name
+from SalesPerson as s left join Orders as o  on o.sales_id =s.sales_id 
+where s.sales_id not in
+(select s.sales_id
+ from SalesPerson as s , Orders as o  ,Company as c
+ where o.com_id =c.com_id and o.sales_id =s.sales_id and c.name = 'RED' );
