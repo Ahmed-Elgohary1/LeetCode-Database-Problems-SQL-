@@ -16,3 +16,4 @@
 16) [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)
 17) [Rising Temperature](https://leetcode.com/problems/rising-temperature/)
 18) [Sales Person](https://leetcode.com/problems/sales-person/)
+19) [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/)
