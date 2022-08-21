@@ -17,3 +17,4 @@
 17) [Rising Temperature](https://leetcode.com/problems/rising-temperature/)
 18) [Sales Person](https://leetcode.com/problems/sales-person/)
 19) [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/)
+20) [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/)
